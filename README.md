@@ -84,7 +84,8 @@ https://drive.google.com/file/d/1kpa5oky1is7x4XN2WDV8DNe1-mlObRb1/view?usp=shari
     * A screenshot of a successful prediction in Azure Cloud Shell
         https://drive.google.com/file/d/1mltPZ7Nz8LY9X6vvTNqrkQkZqZyv-JKl/view?usp=sharing
     * screenshot of the application running against a load test with locust
-        https://drive.google.com/file/d/15lto8Wx4cpkzf_VTIS7Gbg0C9dN3n8Ea/view?usp=sharing
+        screenshot 1 : https://drive.google.com/file/d/1L50y1xgO9dlMZTFtDdWKOJmPJ9hgoW2G/view?usp=sharing
+        screenshot 2 : https://drive.google.com/file/d/15lto8Wx4cpkzf_VTIS7Gbg0C9dN3n8Ea/view?usp=sharing
     * screenshot of a successful run of the project in Azure Pipelines
         https://drive.google.com/file/d/1jwJE4RmARdUO1E_w4LMaZDl1jSfJo5xg/view?usp=sharing
 
@@ -111,7 +112,7 @@ https://drive.google.com/file/d/1kpa5oky1is7x4XN2WDV8DNe1-mlObRb1/view?usp=shari
 
 <TODO: A short description of how to improve the project in the future>
 
-	I would like to enhance this project by integrate the list of data from live data source and expand the prediction to include more then one city
+	I would like to enhance this project by integrate the list of data from live data source and expand the prediction to include more than one city and also improve the deployment to make it more durable by using kubernetes cluster and in such senario i want to confirm that the application deployed successfully or i should make roll back to ensure there will not be intrupt on the service 
 
 ## Demo 
 

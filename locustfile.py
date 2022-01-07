@@ -7,6 +7,7 @@ class QuickstartUser(HttpUser):
     @task
     def hello_world(self):
         self.client.get("/")
+        self.client.get("/predict")
 
     def on_start(self):
         self.client.post("/predict", json={"username":"foo", "password":"bar"})
